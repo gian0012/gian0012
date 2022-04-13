@@ -32,8 +32,11 @@ I want to learn how to create and implement full <b>responsive</b> Web Applicati
 • <a href='https://t.me/gian0012'> 💭 Telegram</a> \
 • <a href='https://t.me/gian0012ch'> 💭 Telegram Channel</a> \
 • <a href='https://gian0012.tk'> 🌏 My Website</a> \
-• <a href='https://paypal.me/gianpe'> 💲 PayPal</a> \
+• <a href='https://paypal.me/gianpe'> 💲 PayPal</a> <br />
 
 
-gian0012 © 2022 - <i>All rights reserved.</i>
 
+
+<br /> <img src='https://i.postimg.cc/YSBW15r3/logo.png'> <br />
+
+<br /> gian0012 © 2022 - <i>All rights reserved.</i>
