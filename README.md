@@ -16,7 +16,7 @@ Here you may see my programming language <b>skills!</b>
 • <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=en'>JavaScript</a>
 • <a href='https://www.typescriptlang.org/'>TypeScript</a>
 
-Now, you may the framework that I'm studying. 📕
+Now, you may kwno the framework that I'm studying. 📕
 
 • <a href='https://laravel.com'>Laravel</a>
 • <a href='https://reactjs.org'>React JS</a>
